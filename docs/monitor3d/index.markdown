@@ -4,4 +4,5 @@
 
 layout: page
 title: monitor3D Contact
+permalink: /monitor3d.github.io/
 ---

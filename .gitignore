@@ -1,2 +1,5 @@
-docs/monitor3d/_config.yml
-docs/monitor3/_posts/*
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
